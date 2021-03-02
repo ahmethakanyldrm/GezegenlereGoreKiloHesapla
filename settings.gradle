@@ -1,0 +1,2 @@
+rootProject.name='GezegenlerdekiKilom'
+include ':app'
